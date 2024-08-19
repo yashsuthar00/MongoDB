@@ -1,0 +1,90 @@
+db.collection.insertOne({
+    "day":{
+        "monday": {
+            "time": {
+                "8:05 to 9:00" : {
+                    "subje": "machine learning"
+                },
+                "9:00 to 9:55" : {
+                    "subje": "machine learning"
+                },"9:55 to 10:50" : {
+                    "subje": "machine learning"
+                },"10:50 to 11:45" : {
+                    "subje": "machine learning"
+                },"11:45 to 12:40" : {
+                    "subje": "machine learning"
+                },"12:40 to 13:35" : {
+                    "subje": "machine learning"
+                }
+            }
+        },"tuesday": {
+            "time": {
+                "8:05 to 9:00" : {
+                    "subje": "machine learning"
+                },
+                "9:00 to 9:55" : {
+                    "subje": "machine learning"
+                },"9:55 to 10:50" : {
+                    "subje": "machine learning"
+                },"10:50 to 11:45" : {
+                    "subje": "machine learning"
+                },"11:45 to 12:40" : {
+                    "subje": "machine learning"
+                },"12:40 to 13:35" : {
+                    "subje": "machine learning"
+                }
+            }
+        },"wendsday": {
+            "time": {
+                "8:05 to 9:00" : {
+                    "subje": "machine learning"
+                },
+                "9:00 to 9:55" : {
+                    "subje": "machine learning"
+                },"9:55 to 10:50" : {
+                    "subje": "machine learning"
+                },"10:50 to 11:45" : {
+                    "subje": "machine learning"
+                },"11:45 to 12:40" : {
+                    "subje": "machine learning"
+                },"12:40 to 13:35" : {
+                    "subje": "machine learning"
+                }
+            }
+        },"thursday": {
+            "time": {
+                "8:05 to 9:00" : {
+                    "subje": "machine learning"
+                },
+                "9:00 to 9:55" : {
+                    "subje": "machine learning"
+                },"9:55 to 10:50" : {
+                    "subje": "machine learning"
+                },"10:50 to 11:45" : {
+                    "subje": "machine learning"
+                },"11:45 to 12:40" : {
+                    "subje": "machine learning"
+                },"12:40 to 13:35" : {
+                    "subje": "machine learning"
+                }
+            }
+        },"friday": {
+            "time": {
+                "8:05 to 9:00" : {
+                    "subje": "machine learning"
+                },
+                "9:00 to 9:55" : {
+                    "subje": "machine learning"
+                },"9:55 to 10:50" : {
+                    "subje": "machine learning"
+                },"10:50 to 11:45" : {
+                    "subje": "machine learning"
+                },"11:45 to 12:40" : {
+                    "subje": "machine learning"
+                },"12:40 to 13:35" : {
+                    "subje": "machine learning"
+                }
+            }
+        }
+    }
+})
